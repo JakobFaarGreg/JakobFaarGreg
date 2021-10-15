@@ -1,5 +1,5 @@
-### Welcome to my Github profile 👋
-##### My current computer science interests are Pentesting and Databases
+### My name is Jakob F. Gregersen, welcome to my Github profile 👋
+#### My current computer science interests are Pentesting and Databases
 <!--
 **JakobFaarGreg/JakobFaarGreg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
